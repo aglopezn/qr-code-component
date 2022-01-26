@@ -42,7 +42,7 @@ body {
 }
 
 .card__img {
-  width: auto;
+  width: 100%;
 }
 
 .card__img--rounded {
